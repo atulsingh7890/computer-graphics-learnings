@@ -20,3 +20,6 @@
 -  `cmake -G "Visual Studio 16" ..`
 - Solution Explorer Window would look like something this
 - ![GLFWSln](../images/GLFWVS2019SolutionExplorer.png)
+- It should build fine.
+- If we run an Example i took Gears, it should also run properly
+- ![Gear Example](../images/GearExample.png)
