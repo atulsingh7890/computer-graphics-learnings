@@ -22,5 +22,10 @@
   ```
   
   
-
+## OpenGL Pipeline
 ![Open GL Pipeleine](../images/openglpipeline.png)
+
+## OpenGL Normalized Screen Coordinates
+![OpenGL Normalized Screen Coordinates](../images/NormalizedScreenCooridnates.png)
+
+
