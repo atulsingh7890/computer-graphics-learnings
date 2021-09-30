@@ -18,4 +18,5 @@
 -  `D:\repos\glfw>mkdir vs2019`
 -  `D:\repos\glfw>cd vs2019\`
 -  `cmake -G "Visual Studio 16" ..`
- 
+- Solution Explorer Window would look like something this
+- ![GLFWSln](../images/GLFWPlatformIndependence.png)
