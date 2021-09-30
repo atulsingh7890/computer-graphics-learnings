@@ -17,7 +17,7 @@
 -  I clone to `D:\repos\glfw`
 -  `D:\repos\glfw>mkdir vs2019`
 -  `D:\repos\glfw>cd vs2019\`
--  `cmake -G "Visual Studio 16" ..`
+-  `cmake -G "Visual Studio 16" .. -DCMAKE_INSTALL_PREFIX=D:\repos\glfw\install`
 - Solution Explorer Window would look like something this
 - ![GLFWSln](../images/GLFWVS2019SolutionExplorer.png)
 - It should build fine.
