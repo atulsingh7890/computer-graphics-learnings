@@ -2,7 +2,6 @@
 - OpenGL is a **state machine.**
 - This state machine has its own internal memory concept called : **OpenGL Context**
 
-
 | **Open GL Context** |
 |--------|
 |Rendering Options|
@@ -29,3 +28,9 @@
 ![OpenGL Normalized Screen Coordinates](../images/NormalizedScreenCooridnates.png)
 
 
+--------
+- cross Platform C Based API
+- no windowing system support
+  - we need platform specific bindigns here to tap display, e.g glfw. OpenGL only concerns with Rendering.
+- different versions
+-------
