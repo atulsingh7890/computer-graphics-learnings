@@ -9,3 +9,13 @@
 - We can use Cocoa for Macos, NDK for Android, but this would too many options.
 - But GLFW we can use for any platform
 ![GLFW Platform Independence](../images/GLFWPlatformIndependence.png)
+
+### Installing GLFW on Windows(VS2019)
+- [Install CMake](./https://github.com/Kitware/CMake/releases/download/v3.21.3/cmake-3.21.3-windows-x86_64.msi)
+- Download GLFW
+  -  `git clone https://github.com/glfw/glfw.git`
+-  I clone to `D:\repos\glfw`
+-  `D:\repos\glfw>mkdir vs2019`
+-  `D:\repos\glfw>cd vs2019\`
+-  `cmake -G "Visual Studio 16" ..`
+ 
