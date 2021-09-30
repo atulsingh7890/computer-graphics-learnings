@@ -25,3 +25,13 @@
 - ![Gear Example](../images/GearExample.png)
 - - Once we Build INSTALL Project in soltuion, we would have our glfw libraries ready to be consumed in directory `D:\repos\glfw\install`
 - ![Install Build Target](../images/InstallBuildTarget.png)
+
+
+### Setting up Project to Consume GLFW
+- Create an empty Console application. 
+- Setting Up Includes
+- ![Include Setup](../images/SettingUpIncludes.pmg)
+- Setting up Library Directories
+- ![Library Directories](../images/SettingUPLibaryDirectories.png)
+- Adding Libarry Name to be consumed
+- ![LibraryName](../images/AddinglibraryName.png)
