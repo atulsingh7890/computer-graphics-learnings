@@ -35,3 +35,5 @@
 - ![Library Directories](../images/SettingUPLibaryDirectories.png)
 - Adding Libarry Name to be consumed
 - ![LibraryName](../images/AddinglibraryName.png)
+- Everything goes good, we are good
+- ![Success](../images/SuccessSetup.png)
