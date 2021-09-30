@@ -23,3 +23,5 @@
 - It should build fine.
 - If we run an Example i took Gears, it should also run properly
 - ![Gear Example](../images/GearExample.png)
+- - Once we Build INSTALL Project in soltuion, we would have our glfw libraries ready to be consumed in directory `D:\repos\glfw\install`
+- 
